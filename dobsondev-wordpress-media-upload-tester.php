@@ -8,7 +8,7 @@
  * Author URI: http://dobsondev.com/
  * License: GPLv2
  *
- * Copyright 2014  Vital Effect  (email : alex@dobsondev.com)
+ * Copyright 2015  Alex Dobson  (email : alex@dobsondev.com)
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License, version 2, as
